@@ -42,9 +42,10 @@ nav{
 #saída{
     width: 100%;
     overflow-wrap: break-word;
+    text-align: center;
     word-wrap: break-word;
-    font-size: 35px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif
 }
 button{
     width: 80px;
