@@ -63,6 +63,30 @@ button:hover{
     box-shadow: 0 0 15px;
 }
 
+/*estilizando o header e footer*/
+body{
+    flex-direction: column;
+}
+
+#app{
+    margin: 50px;
+}
+
+header{
+    color: rgb(209, 46, 109);
+    position: fixed;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    padding: 10px;
+}
+
+footer{
+    padding: 20px;
+}
+
 @media (max-width:480px){
 
 #app{
