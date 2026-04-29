@@ -47,6 +47,12 @@ nav{
     font-size: 23px;
     font-family: 'Times New Roman', Times, serif
 }
+
+#cit{
+    color: rgb(0, 0, 0);
+    margin: 15px 0 0 0;
+    
+}
 button{
     width: 80px;
     height: 80px;
